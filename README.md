@@ -37,6 +37,7 @@ and even from **example images** (one-shot detection).
   ```
 
 
-📚 References
+## 📚 References
+
 OWL-ViT: Simple Open-Vocabulary Object Detection with Vision Transformers - https://huggingface.co/docs/transformers/model_doc/owlvit
 ](https://huggingface.co/docs/transformers/model_doc/owlvit)
