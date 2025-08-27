@@ -30,8 +30,9 @@ and even from **example images** (one-shot detection).
   source .env/bin/activate```
 
 3. Install dependencies:
-  ```bash
-   pip install -r requirements.txt```
+
+  ```pip install -r requirements.txt```
+
 
 📚 References
 OWL-ViT: Simple Open-Vocabulary Object Detection with Vision Transformers - https://huggingface.co/docs/transformers/model_doc/owlvit
