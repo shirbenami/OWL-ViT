@@ -25,9 +25,10 @@ and even from **example images** (one-shot detection).
    cd owlvit-demo```
    
 2. create a venv:
-  ```bash
-  python3 -m venv .env
-  source .env/bin/activate```
+  ```
+   python3 -m venv .env
+  source .env/bin/activate
+  ```
 
 3. Install dependencies:
 
