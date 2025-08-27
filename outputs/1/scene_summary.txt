@@ -1,0 +1,1 @@
+In the office there are 2 tables, one chair, 13 plants, 9 shelves, and one floor. It looks like an office. The floor covers roughly 16% of the image.  | avg confidence table: 0.15 ; avg confidence chair: 0.21 ; avg confidence plant: 0.16 ; avg confidence shelf: 0.15 ; avg confidence floor: 0.16

@@ -1,0 +1,1 @@
+In the office there are one speaker, 2 plants, and 3 shelves. It looks like an office.  | avg confidence speaker: 0.12 ; avg confidence plant: 0.12 ; avg confidence shelf: 0.14

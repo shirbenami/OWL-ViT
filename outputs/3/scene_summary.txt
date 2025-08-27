@@ -1,0 +1,1 @@
+Detected 2 plants.  | avg confidence plant: 0.12

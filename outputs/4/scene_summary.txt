@@ -1,0 +1,1 @@
+In the office there are one table and one keyboard. It looks like an office.  | avg confidence table: 0.11 ; avg confidence keyboard: 0.14
