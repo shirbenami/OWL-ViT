@@ -27,12 +27,14 @@ and even from **example images** (one-shot detection).
 2. create a venv:
   ```
    python3 -m venv .env
-  source .env/bin/activate
+   source .env/bin/activate
   ```
 
 3. Install dependencies:
 
-  ```pip install -r requirements.txt```
+  ```
+   pip install -r requirements.txt
+  ```
 
 
 📚 References
