@@ -1,5 +1,3 @@
-[# OWL-ViT
-
 This project demonstrates how to use **OWL-ViT** (Open-Vocabulary Vision Transformer) for 
 open-vocabulary object detection with text on **images and videos**.
 
