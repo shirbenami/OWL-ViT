@@ -28,8 +28,9 @@ and even from **example images** (one-shot detection).
   ```bash
   python3 -m venv .env
   source .env/bin/activate ```
+
 3. Install dependencies:
 ```pip install -r requirements.txt```
 
 📚 References
-OWL-ViT: Simple Open-Vocabulary Object Detection with Vision Transformers
+OWL-ViT: Simple Open-Vocabulary Object Detection with Vision Transformers - https://huggingface.co/docs/transformers/model_doc/owlvit
